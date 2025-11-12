@@ -24,10 +24,13 @@
     vertical-align:baseline;
 }
 
+
 body{
-    background-color: #fafafa;
+    background-image: url("./background.jpg");
     background-size: cover;
+    background-position: center center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
     color: #505050; 
     text-align:left;
     font-family:'Roboto',sans-serif;
@@ -123,6 +126,8 @@ td.sponsor img{width: 100%}
 
 .bodyText{
     color: rgb(255, 255, 255); /* 换成你想要的颜色值 */
+    font-size: 1.5em;
+    line-height: 1.5em;
 }
 
 footer{font-size:0.875em; margin-top:12em; text-align:center; color: #fafafa;}
