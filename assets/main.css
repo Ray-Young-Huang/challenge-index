@@ -129,6 +129,12 @@ td.sponsor img{width: 100%}
     font-size: 1.5em;
     line-height: 1.5em;
 }
+.centered-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; /* 根据需要调整比例 */
+    height: auto;
+}
 
 footer{font-size:0.875em; margin-top:12em; text-align:center; color: #fafafa;}
 
