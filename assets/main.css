@@ -34,7 +34,7 @@ body{
     color: #505050; 
     text-align:left;
     font-family:'Roboto',sans-serif;
-    font-size:1em;
+    font-size:1.5em;
     line-height:1.5em;
     margin: 60px auto;
     width: 1000px;
@@ -128,6 +128,7 @@ td.sponsor img{width: 100%}
     color: rgb(255, 255, 255); /* 换成你想要的颜色值 */
     font-size: 1.5em;
     line-height: 1.5em;
+    text-align: justify;
 }
 .centered-image {
     display: block;
